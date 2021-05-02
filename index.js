@@ -1,4 +1,4 @@
-var colourBoxes = ["red", "purple", "blue", "green"] ;
+var colourBoxes = ["yellow", "purple", "blue", "green"] ;
 var gameGeneration = [];
 var userSequence = [];
 var started = false;
